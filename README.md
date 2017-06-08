@@ -1,5 +1,6 @@
 # Daily Dinosaur
 When asked, Daily Dinosaur will randomly select a dinosaur from a list of over 1000 species and provide a brief description.
+https://www.hackster.io/BrianCottrell/daily-dinosaur-e7eab9
 
 ## Background
 As someone who grew up with an interest in paleontology, I find myself periodically looking to expand my knowledge about dinosaurs. However, most resources are overwhelming and include endless lists of dinosaur types and descriptions, which are far too extensive to take in all at once. I created Daily Dinosaur to address this issue by breaking down the list of known dinosaur species, and presenting them one at a time with a brief description, and most importantly, the pronunciation; a challenge that anyone with experience with dinosaur names has likely experienced.
